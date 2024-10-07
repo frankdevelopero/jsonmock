@@ -4,6 +4,12 @@
     "correo": "admin@gmail.com",
     "password": "admin1234"
   },
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
   "bets": [
     {
       "BetNivel": "Donatelo",
